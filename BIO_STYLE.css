@@ -1,0 +1,13 @@
+*{
+	/* A universal CSS reset */
+	margin:0;
+	padding:0;
+}
+
+div#Ini{
+     margin:auto;
+     margin-top:50px;
+     width:1200px;
+     height:1000px;
+     background-color:BLACK;
+}
